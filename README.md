@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @lucascabralds
+- 👀 I am interested in working in the Full Stack development area
+- 🌱 I am currently learning Django, React-Native and Power BI
