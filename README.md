@@ -6,9 +6,9 @@
 
 ## Sobre Mim
 
-Atualmente, estou em transição de carreira para a área de **Desenvolvimento de Software**, trazendo comigo 6 anos de experiência em análise de dados, otimização de processos e Business Intelligence com Power BI.
+Atualmente, estou em transição de carreira para a área  que é **Focado em Python, Análise de Dados e Automação**, transformando processos complexos em soluções eficientes com SQL, Power BI e Docker.
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** e aplicando meus conhecimentos para construir soluções de software robustas e eficientes. Meu foco principal é o desenvolvimento **Backend**, utilizando meu background analítico para criar APIs, gerenciar bancos de dados e resolver problemas complexos de negócio.
+Estou finalizando a faculdade de  **Análise e Desenvolvimento de Sistemas** e aplicando meus conhecimentos para construir soluções de software robustas e eficientes. Meu foco principal é o desenvolvimento **Backend**, utilizando meu background analítico para criar APIs, gerenciar bancos de dados e resolver problemas complexos de negócio.
 
 <br>
 
