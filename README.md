@@ -68,5 +68,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
   <a href="https://www.linkedin.com/in/lucascasantos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email-aqui@dominio.com">
+  <a href="mailto:lucascabralds.dev@gmail.com">
     <img src="
